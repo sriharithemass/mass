@@ -278,8 +278,6 @@ header{
     transition: 0.4s ease;
 }
 
-
-
 .about-text{
     /* width: 800px; */
     margin-left: 70px;
@@ -829,7 +827,7 @@ footer{
     }
     
     .about-image img:hover{
-        filter:grayscale(1);
+        content: url(/photo_2_2023-09-05_12-25-27.jpg);
     }
 
     .about-text a:hover{
